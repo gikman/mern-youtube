@@ -1,0 +1,7 @@
+.submitcomment {
+    /* width: 150%; */
+    /* background-color: aqua; */
+    text-overflow: ellipsis;
+    white-space: wrap;
+    overflow: hidden;
+}
